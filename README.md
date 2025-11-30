@@ -22,19 +22,19 @@ I'm Aida — a junior data specialist passionate about uncovering insights, find
 🤖 scikit-learn • TensorFlow • Keras • PyTorch
 👁️ OpenCV • YOLO   
 
-**Working with Data**
-Data cleaning
-EDA (Exploratory Data Analysis)
-Feature engineering
+**Working with Data:**
+- Data cleaning
+- EDA (Exploratory Data Analysis)
+- Feature engineering
 
-**Machine learning (ML):**
-Regression – linear, polynomial, logistic
-Classification – KNN, Decision Tree, Random Forest, SVM
-Clustering – K-means, DBSCAN
+**Machine Learning (ML):**
+- Regression – linear, polynomial, logistic
+- Classification – KNN, Decision Tree, Random Forest, SVM
+- Clustering – K-means, DBSCAN
 
-**Deep learning:**
-Neural networks: feedforward, CNN (computer vision), RNN/LSTM (sequences)
-Working with TensorFlow or PyTorch
+**Deep Learning:**
+- Neural networks: feedforward, CNN, RNN/LSTM
+- Working with TensorFlow or PyTorch
 
 ---
 
