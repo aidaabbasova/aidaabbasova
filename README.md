@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aida 👋</h1>
+<p align="center">
+  🎓 Data Science Graduate (DIV Academy) •  
+  🧠 AI & Data Enthusiast •  
+  🐍 Python • SQL • Analytics
+</p>
 
-<!--
-**aidaabbasova/aidaabbasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm Aida — a junior data specialist passionate about uncovering insights, finding patterns, and building value through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Completed Data Science program at **DIV Academy**  
+✔ Strong foundation in Python, data analysis, statistics, and ML fundamentals  
+✔ Comfortable working with structured & unstructured data  
+✔ Motivated, detail-oriented 
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+🐍 Python • SQL  
+
+**Libraries & Tools:**  
+📊 pandas • NumPy • matplotlib • seaborn  
+🤖 scikit-learn (beginner)  
+📒 Jupyter Notebook  
+
+
+## 📫 Connect With Me
+🔗 LinkedIn: *linkedin.com/in/aida-abbasova-64a21633a*  
+📧 Email: *aidaabbasovamehman@gmail.com*
