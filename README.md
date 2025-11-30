@@ -24,7 +24,7 @@ I'm Aida — a junior data specialist passionate about uncovering insights, find
 
 **Libraries & Tools:**  
 📊 pandas • NumPy • matplotlib • seaborn  
-🤖 scikit-learn (beginner)  
+🤖 scikit-learn  
 📒 Jupyter Notebook  
 
 
